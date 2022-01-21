@@ -1,6 +1,6 @@
 # Question : To check if the given number is palindrome or not  
 #        Input : User input a number
-#        Output : -
+#        Output : Print either the numer is palindrome or not palindrome
 
 n=int(input("Enter the number to check : "))
 x=n
